@@ -5,11 +5,11 @@ English // Chinese
 中文//
 
 介绍//
-基于【https://github.com/Cymlin/drs-converter-for-unity】制作的批处理文件//
+基于【https://github.com/Cymlin/drs-converter-for-unity  】制作的批处理文件//
 让您无需手动逐个转换文件
 
 使用方法//
-请您下载由【Cymlin】的【https://github.com/Cymlin/drs-converter-for-unity】最新版本
+请您下载由【Cymlin】的【https://github.com/Cymlin/drs-converter-for-unity  】最新版本
 创建一个文件夹用于存储转换的文件
 将【Cymlin】的Python脚本放置到刚刚创建的文件夹
 
