@@ -1,6 +1,8 @@
 # Batch-processing-of-DRS-to-Unity
 
 English // Chinese
+//Due to the use of Chinese encoding for writing, users of other languages may encounter garbled characters and other issues. In such cases, you can still try following the steps to use it, and there is a high probability that the conversion will still be successful
+
 
 中文//
 
@@ -17,13 +19,19 @@ English // Chinese
 将该Github项目文件放在刚刚创建的文件夹
 
 双击打开Start.bat文件
-将DRS的【music】文件夹拖拽到提示窗口并且按下回车
+将DanceRush Stadom的【music】文件夹拖拽到提示窗口并且按下回车
 将【Cymlin】的Python脚本拖拽到提示窗口并且按下回车
 
 等待执行完成后按下回车结束//
 
 //
 注意事项：该Github附带的.py脚本文件并不是最新版本，只是取自稳定版本，使用最新版本仍然需要您去查找并下载
+
+
+//
+视频演示↓
+https://github.com/user-attachments/assets/27d469fb-8cc4-4c40-a848-5dda38ec6980
+
 
 问题//
 如果您发现在批量执行过程中出现ERROR的报错
